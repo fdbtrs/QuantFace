@@ -120,7 +120,7 @@ class FaceDatasetFolder(Dataset):
              transforms.ToTensor(),
              transforms.Normalize(mean=[0.5, 0.5, 0.5], std=[0.5, 0.5, 0.5]),
              ])
-        self.root_dir = os.path.join( root_dir,"synthetic")
+        self.root_dir = os.path.join( root_dir)
         self.local_rank = local_rank
         self.imgidx, self.labels=self.scan(self.root_dir)
     def scan(self,root):

@@ -11,7 +11,7 @@ import torch.utils.data.distributed
 from torch.nn.utils import clip_grad_norm_
 
 from backbones.mobilefacenet import MobileFaceNet
-from config.config_Quantization import config as cfg
+from config.config_Quantization_Synthetic import config as cfg
 from utils.dataset import DataLoaderX, FaceDatasetFolder
 from utils.utils_callbacks import CallBackVerification, CallBackLogging, CallBackModelCheckpoint
 from utils.utils_logging import AverageMeter, init_logging
