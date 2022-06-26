@@ -18,11 +18,22 @@ Paper on arxiv: [arxiv](https://arxiv.org/abs/2206.10526)
 |   ResNet100 W8A8 (Synthetic data)   |[pretrained-mode](https://drive.google.com/drive/folders/1JRXGS5cs7xdvRZt5sr2UGheQEzzQ0YLv?usp=sharing) |
 |   ResNet100 W6A6 (Real data)   |[pretrained-mode](https://drive.google.com/drive/folders/1JRXGS5cs7xdvRZt5sr2UGheQEzzQ0YLv?usp=sharing) |
 |   ResNet100 W6A6 (Synthetic data)   |[pretrained-mode](https://drive.google.com/drive/folders/1JRXGS5cs7xdvRZt5sr2UGheQEzzQ0YLv?usp=sharing) |
+|   ResNet50   |[pretrained-mode](https://drive.google.com/drive/folders/1JRXGS5cs7xdvRZt5sr2UGheQEzzQ0YLv?usp=sharing) |
+|   ResNet50 W8A8 (Real data)   |[pretrained-mode](https://drive.google.com/drive/folders/1JRXGS5cs7xdvRZt5sr2UGheQEzzQ0YLv?usp=sharing) |
+|   ResNet50 W8A8 (Synthetic data)   |[pretrained-mode](https://drive.google.com/drive/folders/1JRXGS5cs7xdvRZt5sr2UGheQEzzQ0YLv?usp=sharing) |
+|   ResNet50 W6A6 (Real data)   |[pretrained-mode](https://drive.google.com/drive/folders/1JRXGS5cs7xdvRZt5sr2UGheQEzzQ0YLv?usp=sharing) |
+|   ResNet50 W6A6 (Synthetic data)   |[pretrained-mode](https://drive.google.com/drive/folders/1JRXGS5cs7xdvRZt5sr2UGheQEzzQ0YLv?usp=sharing) |
+|   ResNet18   |[pretrained-mode](https://drive.google.com/drive/folders/1JRXGS5cs7xdvRZt5sr2UGheQEzzQ0YLv?usp=sharing) |
+|   ResNet18 W8A8 (Real data)   |[pretrained-mode](https://drive.google.com/drive/folders/1JRXGS5cs7xdvRZt5sr2UGheQEzzQ0YLv?usp=sharing) |
+|   ResNet18 W8A8 (Synthetic data)   |[pretrained-mode](https://drive.google.com/drive/folders/1JRXGS5cs7xdvRZt5sr2UGheQEzzQ0YLv?usp=sharing) |
+|   ResNet18 W6A6 (Real data)   |[pretrained-mode](https://drive.google.com/drive/folders/1JRXGS5cs7xdvRZt5sr2UGheQEzzQ0YLv?usp=sharing) |
+|   ResNet18 W6A6 (Synthetic data)   |[pretrained-mode](https://drive.google.com/drive/folders/1JRXGS5cs7xdvRZt5sr2UGheQEzzQ0YLv?usp=sharing) |
 |   MobileFaceNet   |[pretrained-mode](https://drive.google.com/drive/folders/1JRXGS5cs7xdvRZt5sr2UGheQEzzQ0YLv?usp=sharing) |
 |   MobileFaceNet W8A8 (Real data)   |[pretrained-mode](https://drive.google.com/drive/folders/1JRXGS5cs7xdvRZt5sr2UGheQEzzQ0YLv?usp=sharing) |
 |   MobileFaceNet W8A8 (Synthetic data)   |[pretrained-mode](https://drive.google.com/drive/folders/1JRXGS5cs7xdvRZt5sr2UGheQEzzQ0YLv?usp=sharing) |
 |   MobileFaceNet W6A6 (Real data)   |[pretrained-mode](https://drive.google.com/drive/folders/1JRXGS5cs7xdvRZt5sr2UGheQEzzQ0YLv?usp=sharing) |
 |   MobileFaceNet W6A6 (Synthetic data)   |[pretrained-mode](https://drive.google.com/drive/folders/1JRXGS5cs7xdvRZt5sr2UGheQEzzQ0YLv?usp=sharing) |
+
 
 
 If you use any of the code provided in this repository, please cite the following paper:
